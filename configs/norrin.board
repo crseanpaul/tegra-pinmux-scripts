@@ -192,6 +192,16 @@ pins = (
     ('usb_vbus_en0_pn4',       'usb',         None,      'none', False, True,  True,  False),
     ('usb_vbus_en1_pn5',       'usb',         None,      'none', False, True,  True,  False),
     ('dp_hpd_pff0',            'dp',          None,      'up',   False, True,  False, False),
+    ('dsi_b_clk_n',	       'csi',         None,      'none', False, False, False, False),
+    ('dsi_b_clk_p',	       'csi',         None,      'none', False, False, False, False),
+    ('dsi_b_d0_n',	       'csi',         None,      'none', False, False, False, False),
+    ('dsi_b_d0_p',	       'csi',         None,      'none', False, False, False, False),
+    ('dsi_b_d1_n',	       'csi',         None,      'none', False, False, False, False),
+    ('dsi_b_d1_p',	       'csi',         None,      'none', False, False, False, False),
+    ('dsi_b_d2_n',	       'csi',         None,      'none', False, False, False, False),
+    ('dsi_b_d2_p',	       'csi',         None,      'none', False, False, False, False),
+    ('dsi_b_d3_n',	       'csi',         None,      'none', False, False, False, False),
+    ('dsi_b_d3_p',	       'csi',         None,      'none', False, False, False, False),
 )
 
 drive_groups = (
